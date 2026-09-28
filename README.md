@@ -1,6 +1,6 @@
 # MediaPipe Class 日本語版ガイド
 - 対応バージョン: mediapipe 1.0.0 以降
-- これはオリジナルの [MediaPipeClass](https://github.com/ipbl-oit-siit/MediaPipeClass)(英語版・iPBL向け)を、日本語話者の学生が迷わず使えるように再構成した非公式ガイドです。
+- これはオリジナルの [MediaPipeClass](https://github.com/ipbl-oit-siit/MediaPipeClass)(英語版・iPBL向け)を、日本語話者の学生が迷わず使えるように再構成した公式ガイドです。
 - クラスファイル・サンプルコード・サンプル画像はこのフォルダの[code/](code/)にすべて同梱されており、このフォルダ単体で動作します。
 - 各ページ冒頭の「英語の元ページ」リンクのみ、英語版リポジトリ`MediaPipeClass`を別途お手元にクローン/配置している場合にだけ開けます(必須ではありません。より詳しい応用例を見たいときの追加リンクです)。
 
